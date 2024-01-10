@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Gallery</string>
+    <string name="search_here">Search here</string>
+    <string name="changeView">chnage view</string>
+    <string name="image_error">No image found, search new !!</string>
+    <string name="clientId">ADD YOUR Client-ID HERE</string> <!--get yout client id from : https://imgur.com/account/settings/apps-->
+    <string name="image">image</string>
+</resources>
